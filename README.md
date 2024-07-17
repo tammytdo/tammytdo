@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tammy!
+##  👋 Hi, I'm Tammy!
 
 - 📍 Seattle based software engineer with a background in nonprofits
 - 🔨 Currently working on [Donut Dashboard](https://donutdashboard-td.netlify.app/). A personal web app that offers virtually sweet rewards for open source contributions.
