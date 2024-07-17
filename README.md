@@ -7,16 +7,16 @@
 
 [![Tammytdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammytdo)](https://github.com/anuraghazra/github-readme-stats)
 
-### A passionate frontend developer from India
+### A passionate frontend developer from Seattle
 
 ![Profile views](https://komarev.com/ghpvc/?username=tammytdo&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=tammytdo)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Connect with me:
+### Connect with me
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/tammytdo/)
 
-### Languages and Tools:
+### Languages and Tools
 [![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com)
 [![CircleCI](https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg)](https://circleci.com)
 [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
