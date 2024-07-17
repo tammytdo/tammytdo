@@ -7,14 +7,14 @@
 
 [![Tammytdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammytdo)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me
+## Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/tammytdo/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
