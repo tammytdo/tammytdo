@@ -7,18 +7,6 @@
 
 [![Tammytdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammytdo)](https://github.com/anuraghazra/github-readme-stats)
 
-### A passionate frontend developer from Seattle
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tammytdo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="100"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tammytdo" alt="Profile Trophy" width="200"/>
-  </a>
-</p>
-
 ### Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/tammytdo/" target="_blank">
@@ -26,7 +14,7 @@
   </a>
 </p>
 
-### Languages and Tools
+### 💻 Tech Stack
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>
